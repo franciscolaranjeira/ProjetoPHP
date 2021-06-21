@@ -1,0 +1,79 @@
+#modules {
+    height: 100%;
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundmodules.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+}
+
+#box {
+    width: 90%;
+    height: 88%;
+    margin-left: 4%;
+    background-color: #000000b8;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%
+}
+
+#table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+#table th {
+    font-size: 150%;
+}
+
+th {
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+th,
+tr,
+td {
+    padding: 8px;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 109%;
+}
+
+#table a {
+    color: white;
+}
+
+#table a:hover {
+    color: rgb(0, 0, 0);
+    background: lightgray;
+}
+
+.module-row {
+    text-align: left;
+    padding-left: 4%;
+}
+
+#addm {
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 120%;
+    text-align: end;
+    vertical-align: middle;
+    height: 6%;
+}
+
+#addm a {
+    margin-right: 11%;
+    color: white;
+}

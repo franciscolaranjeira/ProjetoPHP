@@ -1,0 +1,61 @@
+    .admin {
+        height: 100%;
+        width: 88%;
+        float: left;
+        background: url(../foto/backgroundadmin.png);
+        background-color: black;
+        background-blend-mode: luminosity;
+        background-size: cover;
+        opacity: 94%;
+    }
+    
+    #box-admin {
+        width: 80.5%;
+        height: 86%;
+        margin-top: 3%;
+        margin-left: 10%;
+        background-color: #000000b8;
+    }
+    
+    #box-admin-box {
+        height: 100%;
+        color: white;
+        font-family: Arial;
+        font-stretch: ultra-expanded;
+        font-variant: petite-caps;
+        font-size: 130%;
+    }
+    
+    #box-admi-form {
+        text-align: center;
+        padding-top: 20%;
+        height: 15%;
+        font-size: 140%;
+    }
+    
+    input {
+        height: 20px;
+        width: 220px;
+        padding: 2px 3px;
+        border: 2px solid lightgray;
+        margin-top: 1%;
+        margin-bottom: 1%;
+    }
+    
+    input[type="submit" i] {
+        height: 30px;
+        margin-top: 0%;
+        width: 88px;
+        padding: 2px 3px;
+        border: 2px solid darkgray;
+        font-size: 19px;
+    }
+    
+    #box-admin-box a {
+        color: white;
+    }
+    
+    #box-admin-box a:hover {
+        color: rgb(0, 0, 0);
+        background: lightgray;
+    }

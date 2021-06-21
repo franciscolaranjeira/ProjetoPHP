@@ -1,0 +1,74 @@
+#createNew {
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundadmin.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+    display: table-cell;
+    height: 100%;
+}
+
+#box {
+    height: 100%;
+    margin-left: 10%;
+    background-color: #000000b8;
+    font-size: 200%;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    text-align: center;
+    margin-right: 10%;
+}
+
+#Box-h1{
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+#form {
+    height: 7%;
+    font-size: 180%;
+    margin-top: 20%;
+}
+
+input{
+    height: 25px;
+    width: 270px;
+    margin: 2%;
+    padding: 3px 4px;
+    border: 2px solid lightgray;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#inputSubmit {
+    height: 3%;
+    width: 6%;
+    margin-left: 47%;
+    margin-top: 2%
+}
+
+#inputTexto {
+    height: 64%;
+}
+
+#box a {
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+}
+
+input[type="submit" i]{
+    height: 45px;
+    margin-top: 4%;
+    margin-bottom: 0px;
+}

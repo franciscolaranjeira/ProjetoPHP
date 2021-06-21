@@ -1,0 +1,28 @@
+#home {
+    height: 100%;
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundhome.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+
+}
+
+#home-background{
+    text-align: right;
+    margin-top: 42%;
+    margin-right: 3%;
+    margin-left: 0px;
+}
+
+
+#welcome{
+    margin: 0px;
+    color: #f9f9f9;
+    font-size: 600%;
+    font-family: sans-serif;
+    font-variant-caps: all-petite-caps;
+    font-weight: 900;
+}

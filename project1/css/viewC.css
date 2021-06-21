@@ -1,0 +1,40 @@
+#viewC {
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundmodules.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+    display: table-cell;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    height: 90%;
+    width: 90%;
+    background-color: #000000b8;
+    font-size: 170%;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+#box a {
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 80%;
+}
+

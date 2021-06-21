@@ -1,0 +1,103 @@
+#projects {
+    height: 100%;
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundmodules.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    width: 90%;
+    height: 90%;
+    background-color: #000000b8;
+}
+
+#title {
+    width: 80.5%;
+    height: 8%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    font-size: 170%;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    text-align: center;
+    padding-top: 2%
+}
+
+#table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+#addp {
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 120%;
+    text-align: end;
+    vertical-align: middle;
+    height: 10%;
+}
+
+#addp a {
+    margin-right: 11%;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 122%;
+    text-align: end;
+    height: 12%;
+}
+
+#box a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+}
+
+#tr {
+    font-size: 150%;
+}
+
+table th {
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+table th,
+tr,
+td {
+    padding: 0px;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 110%;
+    padding: 2%;
+}
+
+#table a {
+    color: white;
+}
+
+#box a:hover {
+    color: rgb(0, 0, 0);
+    background: lightgray;
+}
+
+.project-row {
+    text-align: left;
+    padding-left: 4%;
+}

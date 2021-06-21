@@ -1,0 +1,70 @@
+#contact{
+    height: 100%;
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundcontact.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box-contact{
+    width: 90%;
+    height: 91%;
+    background-color: #000000b8;
+}
+
+#box-contact-tex{
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    font-size: 130%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form{
+    color: white;
+}
+
+input{
+    height: 20px;
+    width: 220px;
+    margin: 2%;
+    padding: 3px 4px;
+    border: 2px solid lightgray;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+form{
+    height: 100%;
+    font-size: 210%;
+}
+
+#form-contact{
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 8%;
+}
+
+#form-coments{
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+input[type="submit" i]{
+    height: 45px;
+    margin-top: 4%;
+    margin-bottom: 0px;
+}
+
+

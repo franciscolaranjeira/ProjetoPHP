@@ -1,0 +1,50 @@
+#addm {
+    width: 88%;
+    float: left;
+    background: url(../foto/backgroundmodules.png);
+    background-color: black;
+    background-blend-mode: luminosity;
+    background-size: cover;
+    opacity: 94%;
+    display: table-cell;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    height: 90%;
+    width: 90%;
+    background-color: #000000b8;
+    font-size: 170%;
+    color: white;
+    font-family: Arial;
+    font-stretch: ultra-expanded;
+    font-variant: petite-caps;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 10%;
+}
+input{
+    height: 25px;
+    width: 270px;
+    margin: 2%;
+    padding: 3px 4px;
+    border: 2px solid lightgray;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#inputSubmit {
+    height: 7%;
+    width: 25%;
+}
